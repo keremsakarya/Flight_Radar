@@ -1,9 +1,21 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Flight_Radar
+
+This repository allows users to view up to 300 airplanes flying over Türkiye. When an airplane is clicked, a detail page opens, displaying information about the airplane. Additionally, by clicking the 'list' button at the top, airplane information can also be viewed in a table format.
+
+# Features
+
+- API URL Definition
+- HTTP Method
+- Query Parameters
+- Hooks
+- Conditional Rendering
+- Ternary Operator
+- Initial State
+- Extra Reducers
+- React-Leaflet Components
+- Popup with Interaction
+- Event Handling
+
+# GIF
+
+![0811(1)](https://github.com/user-attachments/assets/ff70395d-d5e0-4dd1-8ce7-6de7b5a84ec6)
